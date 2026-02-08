@@ -1,1 +1,11 @@
 .vscode/
+*.xlsx
+*.csv
+rice-field-background.png
+index.html
+gestionderepresentantes.html
+detalles.html
+representantes.html
+*.sql
+*.sqlite3
+staticfiles/
