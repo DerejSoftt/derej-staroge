@@ -9,3 +9,11 @@ representantes.html
 *.sql
 *.sqlite3
 staticfiles/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
